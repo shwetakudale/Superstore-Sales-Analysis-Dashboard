@@ -1,2 +1,71 @@
-# Superstore-Sales-Analysis-Dashboard
-This project is developed to analyze sales performance using the Superstore dataset. The dashboard helps users understand sales, profit, and quantity trends across different categories, regions, and customer segments. It includes interactive visuals and filters to easily explore business insights and identify top-performing products.
+#Superstore Sales Analysis Dashboard
+
+##Project Overview
+
+This project analyzes the Superstore dataset using Power BI to understand sales performance, profit trends, and customer behavior. The interactive dashboard helps users quickly explore key business insights through visualizations and filters.
+
+The dashboard provides a clear view of total sales, profit, quantity sold, and customer metrics, along with detailed analysis by region, category, and time.
+
+##Dashboard Features
+Key Performance Indicators (KPIs)
+
+Total Sales
+
+Total Profit
+
+Total Quantity Sold
+
+Total Customers
+
+Average Sales per Quantity
+
+Average Sales per Customer
+
+Visualizations Included
+
+Sales by Sub-Category: Displays which product sub-categories generate the most sales.
+
+Sales by Region: Shows sales distribution across different regions.
+
+Sales by Segment: Compares sales across Consumer, Corporate, and Home Office segments.
+
+Monthly Sales Trend: Line chart showing sales performance across months.
+
+Interactive Features
+
+Category Dropdown Filter (Slicer) to dynamically filter dashboard visuals.
+
+Users can explore data by selecting different product categories.
+
+##Tools and Technologies Used
+
+Power BI – Dashboard creation and data visualization
+
+DAX – Calculated measures and metrics
+
+Excel / CSV Dataset – Data source
+
+##Insights from the Dashboard
+
+Phones and Chairs generate the highest sales among sub-categories.
+
+The West region contributes the highest sales.
+
+The Consumer segment has the largest share of sales.
+
+Sales show noticeable growth during the end of the year months.
+
+##Dataset
+
+The dataset used in this project is the Sample Superstore dataset, commonly used for learning data analysis and visualization.
+
+Project Screenshot
+
+(Add your dashboard screenshot here in GitHub)
+
+Example:
+
+![Superstore Dashboard]("C:\Users\91965\Pictures\Screenshots\Superstore Analysis.png")
+Project Goal
+
+The goal of this project is to practice data analysis, dashboard creation, and data visualization techniques using Power BI to generate meaningful business insights.
