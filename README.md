@@ -7,7 +7,7 @@ This project analyzes the Superstore dataset using Power BI to understand sales 
 The dashboard provides a clear view of total sales, profit, quantity sold, and customer metrics, along with detailed analysis by region, category, and time.
 
 ##Dashboard Features
-Key Performance Indicators (KPIs)
+##Key Performance Indicators (KPIs)
 
 Total Sales
 
@@ -21,7 +21,7 @@ Average Sales per Quantity
 
 Average Sales per Customer
 
-Visualizations Included
+##Visualizations Included
 
 Sales by Sub-Category: Displays which product sub-categories generate the most sales.
 
@@ -31,7 +31,7 @@ Sales by Segment: Compares sales across Consumer, Corporate, and Home Office seg
 
 Monthly Sales Trend: Line chart showing sales performance across months.
 
-Interactive Features
+##Interactive Features
 
 Category Dropdown Filter (Slicer) to dynamically filter dashboard visuals.
 
@@ -58,6 +58,8 @@ Sales show noticeable growth during the end of the year months.
 ##Dataset
 
 The dataset used in this project is the Sample Superstore dataset, commonly used for learning data analysis and visualization.
+- <a href = "https://github.com/shwetakudale/Superstore-Sales-Analysis-Dashboard/blob/main/Superstore%20Dataset.xls">Dataset</a>
+
 
 Project Screenshot
 
